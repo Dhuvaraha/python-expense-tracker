@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Runtime expense data
+expenses.json
+
+# Editor files
+.vscode/
+
+# Test/tool cache
+.pytest_cache/
